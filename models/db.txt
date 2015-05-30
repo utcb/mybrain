@@ -1,0 +1,9 @@
+use mybrain;
+
+-- db.runCommand({...});
+
+-- users collection
+db.createCollection("users", {autoIndexId: true});
+  -- email, pass, displayname, 
+
+-- 
